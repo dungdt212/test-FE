@@ -1,0 +1,61 @@
+/* src/styles/colors.css */
+
+:root {
+  /* --- PRIMARY --- */
+  --color-primary-01:  #E7F6EE;
+  --color-primary-02: #C3F1D7;
+  --color-primary-03: #59C386;
+  --color-primary-04: #008439;
+  --color-primary-05: #00461E; /* Màu chính (Base) */
+  --color-primary-06: #003617;
+  --color-primary-07: #002A12;
+  --color-primary-08: #00200E;
+  --color-primary-09: #00170A;
+  --color-primary-10: #000C05;
+
+  /* --- NEUTRAL  --- */
+  --color-neutral-01:  #FFFFFF;
+  --color-neutral-02: #F6F6F6;
+  --color-neutral-03: #E3E3E3;
+  --color-neutral-04: #D1D1D1;
+  --color-neutral-05: #B3B3B3;
+  --color-neutral-06: #919191;
+  --color-neutral-07: #7B7A7A;
+  --color-neutral-08: #595959;
+  --color-neutral-09: #333333;
+  --color-neutral-10: #000000;
+
+  /* --- ERROR / SECONDARY (Dải màu đỏ từ Figma) --- */
+  --color-secondary-red-01: #fef2f2;
+  --color-secondary-red-02: #fee2e2;
+  --color-secondary-red-03: #fecaca;
+  --color-secondary-red-04: #fca5a5;
+  --color-secondary-red-05: #f87171;
+  --color-secondary-red-06: #ef4444;
+  --color-secondary-red-07: #b91c1c;
+  --color-secondary-red-08: #991b1b;
+  --color-secondary-red-09: #7f1d1d;
+
+  /* --- WARNING (Dải màu vàng/amber từ Figma) --- */
+  --color-secondary-amber-01: #fffbeb;
+  --color-secondary-amber-02: #fef3c7;
+  --color-secondary-amber-03: #fde68a;
+  --color-secondary-amber-04: #FDE047;
+  --color-secondary-amber-05: #FACC15;
+  --color-secondary-amber-06: #EAB308;
+  --color-secondary-amber-07: #CA8A04;
+  --color-secondary-amber-08: #A16207;
+  --color-secondary-amber-09: #713F12;
+
+
+  /* --- INFO (Dải màu xanh dương từ Figma) --- */
+  --color-secondary-blue-01: #EFF6FF;
+  --color-secondary-blue-02: #BFDBFE;
+  --color-secondary-blue-03: #93C5FD;
+  --color-secondary-blue-04: #60A5FA;
+  --color-secondary-blue-05: #3B82F6;
+  --color-secondary-blue-06: #2563EB;
+  --color-secondary-blue-07: #1D4ED8;
+  --color-secondary-blue-08: #1E40AF;
+  --color-secondary-blue-09: #1E3A8A;
+}
